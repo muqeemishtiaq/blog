@@ -1,6 +1,6 @@
 "use client"
 import React from 'react'
-import style from "./button.module.css"
+import style from "./Button.module.css"
 import Link from 'next/link'
 const Button = ({text, url}) => {
   return (
